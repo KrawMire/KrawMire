@@ -30,6 +30,6 @@ I am an experienced backend developer. My main field of working activity is web-
 ### 📊 My stats
 
 ![KrawMire's Github Stats](https://github-readme-stats.vercel.app/api?username=KrawMire&show_icons=true&include_all_commits=true)
-[![KrawMire's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krawmire)](https://github.com/anuraghazra/github-readme-stats)
+![KrawMire's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krawmire)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKrawMire%2FKrawMire&label=Visits&countColor=%23263759)
