@@ -21,9 +21,9 @@ I am an experienced backend developer. My main field of working activity is web-
     <img src="https://raw.githubusercontent.com/KrawMire/KrawMire/dev/assets/dotnet-core-logo.png" alt="dotnet" height="50px"/>
     <img src="https://raw.githubusercontent.com/KrawMire/KrawMire/dev/assets/typescript-logo.png" alt="typescript" height="50px"/>
     <img src="https://raw.githubusercontent.com/KrawMire/KrawMire/dev/assets/nestjs-logo.png" alt="nestjs" height="50px"/>
+    <img src="https://raw.githubusercontent.com/KrawMire/KrawMire/dev/assets/docker-logo.png" alt="docker" height="50px"/>
     <img src="https://raw.githubusercontent.com/KrawMire/KrawMire/dev/assets/postgresql-logo.png" alt="postgres" height="50px"/>
     <img src="https://raw.githubusercontent.com/KrawMire/KrawMire/dev/assets/mongodb-logo.svg" alt="mongodb" height="50px"/>
-    <img src="https://raw.githubusercontent.com/KrawMire/KrawMire/dev/assets/docker-logo.png" alt="docker" height="50px"/>
 </p>
 
 <br>
