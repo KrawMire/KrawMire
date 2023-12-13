@@ -8,7 +8,7 @@ I am an experienced backend developer. My main field of working activity is web-
 
 ### ☺️ About me
 
-- 💻 I am currently working as a NestJS and MongoDB backend developer
+- 💻 I am currently working as a .NET and MS SQL backend developer
 - 🛠️ My main development language is C#
 - 🧐 Also I think that I know something in ReactJS and Angular, but not sure :)
 - 💾 My favourite databases are PostgreSQL and MongoDB
