@@ -1,7 +1,9 @@
 ## Hi👋! I am Anton Gavrilov
 
+<p float="left">
 <a href="https://www.linkedin.com/in/anton-gavrilov-backend/"><img src="https://raw.githubusercontent.com/KrawMire/KrawMire/dev/assets/linkedin.svg" alt="linkedin" height="40px"/></a>
-
+<a href="https://www.reddit.com/user/KrawMire/"><img src="https://raw.githubusercontent.com/KrawMire/KrawMire/dev/assets/reddit.png" alt="reddit" height="40px"/></a>
+<p>
 ### 🙃 Some introduction
 
 I am an experienced backend developer. My main field of working activity is web-development 🌐. I love exploring something new to me, that's because sometimes I also play with mobile 📱 and desktop 🖥️ applications development, and always try to make people lives easier.
