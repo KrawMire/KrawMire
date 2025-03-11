@@ -5,23 +5,24 @@
 <a href="https://www.reddit.com/user/KrawMire/"><img src="https://raw.githubusercontent.com/KrawMire/KrawMire/dev/assets/reddit.png" alt="reddit" height="40px"/></a>
 <p>
 
-### 🙃 Some introduction
+### 🙋‍♂️ Introduction
 
-I am an experienced backend developer. My main field of working activity is web-development 🌐. I love exploring something new to me, that's because sometimes I also play with mobile 📱 and desktop 🖥️ applications development, and always try to make people lives easier.
+Hello! I'm an experienced backend developer with a strong focus on web development 🌐. I'm passionate about exploring new technologies and expanding my skill set. Occasionally, I dive into mobile 📱 and desktop 🖥️ application development because I love creating solutions that make people's lives easier.
 
-### ☺️ About me
+### 😊 A Bit About Me
 
-- 💻 I am currently working as a .NET and MS SQL backend developer
-- 🛠️ My main development language is C#
-- 🧐 Also I think that I know something in ReactJS and Angular, but not sure :)
-- 💾 My favourite databases are PostgreSQL and MongoDB
-- 🌴 When I am free, I read technical and fiction books 📕 . Also I like to play video games 🎮
+- 💻 Currently, I'm working as a .NET, SQL Server and PostgreSQL backend developer.
+- 🛠️ My primary programming language is C#.
+- 🧐 I'm somewhat familiar with ReactJS and Angular—still trying to decide how much I actually know! :)
+- 💾 PostgreSQL and MongoDB are my go-to databases.
+- 🌴 In my free time, I enjoy reading both technical and fiction books 📕. When I want to relax, I love playing video games 🎮.
 
 ### 🛠️  My languages and tools
 
 <p>
     <img src="https://raw.githubusercontent.com/KrawMire/KrawMire/dev/assets/csharp.svg" alt="csharp" height="50px"/>
     <img src="https://raw.githubusercontent.com/KrawMire/KrawMire/dev/assets/dotnet-core-logo.png" alt="dotnet" height="50px"/>
+    <img src="https://raw.githubusercontent.com/KrawMire/KrawMire/dev/assets/golang-logo.png" alt="golang" height="50px"/>
     <img src="https://raw.githubusercontent.com/KrawMire/KrawMire/dev/assets/typescript-logo.png" alt="typescript" height="50px"/>
     <img src="https://raw.githubusercontent.com/KrawMire/KrawMire/dev/assets/nestjs-logo.png" alt="nestjs" height="50px"/>
     <img src="https://raw.githubusercontent.com/KrawMire/KrawMire/dev/assets/docker-logo.png" alt="docker" height="50px"/>
